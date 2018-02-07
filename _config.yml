@@ -1,0 +1,7 @@
+esmtp:
+  domain: 'ESMTP.JP'
+  author: 'azumakuniyuki'
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
